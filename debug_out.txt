@@ -1,5 +1,0 @@
-[DBG] BP=19 int a=13
-[DBG] BP=19 float b=4.140000
-[DBG] BP=19 double c=2.718280
-[DBG] BP=19 char d=65
-[DBG] BP=19 int e=__NA__
